@@ -1,4 +1,4 @@
-int main()
+int main()hello
 {
   int i;
   for (i = 0; i < 10; i++)
